@@ -6,6 +6,11 @@ See wiki for more information and server compatibility list (https://github.com/
 # Contents
 Synchronize your Android phone with a CalDAV server like [Baïkal](http://baikal-server.com/)
 
+# Please note
+Currently, the active development is done in the fork [eenswi/AndroidCaldavSyncAdapter](https://github.com/ennswi/AndroidCaldavSyncAdapater)
+Please report any issues there.
+
+
 # Build
 ## Configure release
 1. Create `gradle.properties` from template `_gradle.properties`
