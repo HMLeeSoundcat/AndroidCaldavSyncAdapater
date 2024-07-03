@@ -5,8 +5,8 @@
           android:versionName="0.9.0">
 
     <uses-sdk
-            android:minSdkVersion="14"
-            android:targetSdkVersion="20"/>
+            android:minSdkVersion="29"
+            android:targetSdkVersion="30"/>
 
     <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
     <uses-permission android:name="android.permission.READ_CALENDAR"/>
